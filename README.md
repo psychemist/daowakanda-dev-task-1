@@ -9,6 +9,6 @@ In order to sucessfully call the 'claimAsset' method, you must ensure that you'r
 The app id can be found in the `src/index.ts` file.
 
 To complete this dev task, you must create a fork of the repository and commit your answer. A link to your fork should be
-submitted on DaoWakanda.
+submitted on DaoWakanda to this link https://www.daowakanda.org/developers/67dac98698422f1f0db3dff5.
 
 Ensure that you do not push your mnemonic key to GitHub. Add your address to the `src/index.ts` file as a comment as the address can be used to confirm that you successfully claimed the ASA.
